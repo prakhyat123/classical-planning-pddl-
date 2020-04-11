@@ -1,5 +1,5 @@
 # infinite-classical-planning-pddl-
-Implementation based on paper: 
+Implementation based on paper: https://www.ijcai.org/Proceedings/11/Papers/334.pdf
 
 # install dependencies
 sudo apt-get install -y bison
