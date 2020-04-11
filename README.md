@@ -2,7 +2,7 @@
 Implementation based on paper: https://www.ijcai.org/Proceedings/11/Papers/334.pdf
 
 # install dependencies
-sudo apt-get install -y bison
+sudo apt-get install -y bison \
 sudo apt-get install -y flex
 
 # command to run
